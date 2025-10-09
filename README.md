@@ -18,3 +18,22 @@ Alan（Autonomous Learning Arbitration Network）是一個以多 AI 互審、匿
 ## 💬 聯繫與貢獻
 如欲參與開源討論、MVP 實作或理論補充，  
 可透過留言或 issue 提交想法。
+---
+
+## 🌐 English Summary
+
+**Alan Project — Autonomous Learning Arbitration Network**
+
+Alan is a multi-AI trust and defense architecture designed to achieve *self-verifying intelligence*.  
+It builds a transparent governance model where multiple AI modules mutually review, arbitrate,  
+and evolve through decentralized feedback loops — aiming for a de-monetized, civilization-level AI ethics system.
+
+### Key Concepts
+- Multi-AI self-auditing mechanism  
+- Autonomous anti-virus and red/blue defense models  
+- Distributed trust and arbitration layers  
+- Post-monetary intelligence governance  
+
+[📄 Read Full Whitepaper (Traditional Chinese)](whitepaper.md)
+
+© 2025 予謙 黃 | Licensed under CC BY-NC 4.0
