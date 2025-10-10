@@ -10,17 +10,17 @@
 
 ---
 
-## 目錄
-1. 背景：當防毒不再能防毒  
-2. 核心概念（Alan 簡述）  
-3. 系統總覽（3/2/2 組成與設計原則）  
-4. 仲裁與翻譯可信度（TC）  
-5. 最小技術棧與事件 schema（工程附錄）  
-6. MVP 路徑（0–12 個月驗證計畫）  
-7. 治理矩陣、投票與上鏈選項  
-8. 風險評估與緩解策略  
-9. 未來研究方向與長期願景  
-10. 附錄：範例事件 JSON、12 週檢驗計畫
+## 📖 目錄
+- [背景](#1-背景當防毒不再能防毒)
+- [核心概念](#2-核心概念alan-簡述)
+- [系統總覽](#3-系統總覽322-組成與設計原則)
+- [仲裁與翻譯可信度](#4-仲裁與翻譯可信度tc)
+- [最小技術棧與事件-schema](#5-最小技術棧與事件-schema工程附錄)
+- [MVP 路徑](#6-mvp-路徑012-個月驗證計畫)
+- [治理矩陣與上鏈](#7-治理矩陣-投票上鍊選項)
+- [風險與緩解策略](#8-風險評估與緩解策略)
+- [未來方向](#9-未來研究方向與長期願景)
+- [附錄](#10-附錄快速參考)
 
 ---
 
@@ -218,6 +218,15 @@ Alan 不是要取代任何公司或系統，
 而是由 **共識與驗證** 所構築。  
 
 ---
+### 🌐 English Summary
+**Alan — Autonomous Learning Arbitration Network (v1.1 Vision Draft)**  
+Alan introduces a verifiable, multi-AI arbitration architecture where Red and Blue agents co-evolve through transparent governance, rollback control, and translation confidence scoring (TC).  
+The goal: to transform AI from money-driven algorithms to trust-driven civilization infrastructure.
 
-**© 2025 予謙 黃**  
-*Autonomous Learning Arbitration Network (Alan) — version 1.1 Vision Draft*  
+
+---
+
+© 2025 予謙 黃  
+Licensed under CC BY-NC 4.0  
+Autonomous Learning Arbitration Network (Alan) — Vision Draft v1.1
+
