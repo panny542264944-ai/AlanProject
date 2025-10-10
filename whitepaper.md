@@ -129,6 +129,7 @@ TC = clamp( w_rcRC + w_ssSS + w_sfSF + w_hbp(1-HBP) + w_ex*EX , 0, 1 )
   "merkle_batch_id": "MBID-xxxx"
 }
 此 schema 為最小必要欄位集，方便 CI / 外部稽核使用。
+```
 
 ## 6. MVP 路徑（0–12 個月驗證計畫）
 核心驗證目標
