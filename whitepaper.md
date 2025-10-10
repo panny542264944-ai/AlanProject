@@ -115,7 +115,7 @@ TC = clamp( w_rcRC + w_ssSS + w_sfSF + w_hbp(1-HBP) + w_ex*EX , 0, 1 )
 - **Governance API**：治理矩陣檢查與更新介面。
 
 ### 5.2 範例事件（JSON schema）
-```json
+```
 {
   "event_id": "UUID",
   "timestamp": "2025-10-09T12:00:00Z",
