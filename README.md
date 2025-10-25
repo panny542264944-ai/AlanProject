@@ -7,9 +7,9 @@ Alan（Autonomous Learning Arbitration Network）是一個以多 AI 互審、匿
 - [index.md](index.md)：概念介紹與願景
 - [whitepaper.md](whitepaper.md)：理論與技術架構
 - [LICENSE.md](LICENSE.md)：授權條款（CC BY-NC 4.0）
-- [Alan：AI文明免疫架構圖](Alan：AI文明免疫架構圖（The Architecture of Trust-Based Intelligence）.png)：架構圖
-- [philosophy.md](philosophy.md)：哲學與思想
-- [summary_en.md](summary_en.md)：英文摘要
+- [Alan：AI文明免疫架構圖](philosophy/Alan：AI文明免疫架構圖（The Architecture of Trust-Based Intelligence）.png)：架構圖
+- [philosophy.md](philosophy/philosophy.md)：哲學與思想
+- [summary_en.md](philosophy/summary_en.md)：英文摘要
 
 
 ## 📅 發表時間
