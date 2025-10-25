@@ -7,6 +7,7 @@ Alan（Autonomous Learning Arbitration Network）是一個以多 AI 互審、匿
 - [index.md](index.md)：概念介紹與願景
 - [whitepaper.md](whitepaper.md)：理論與技術架構
 - [LICENSE.md](LICENSE.md)：授權條款（CC BY-NC 4.0）
+- philosophy/philosophy.md
 
 ## 📅 發表時間
 2025 年 10 月 9 日 — 初版願景稿 Alan v1.1
