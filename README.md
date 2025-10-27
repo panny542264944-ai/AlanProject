@@ -22,6 +22,17 @@ Alan（Autonomous Learning Arbitration Network）是一個以多 AI 互審、匿
 ## 💬 聯繫與貢獻
 如欲參與開源討論、MVP 實作或理論補充，  
 可透過留言或 issue 提交想法。
+📢 聯絡與貢獻
+
+如欲參與開源討論、MVP 實作或哲學論述，歡迎透過以下方式聯繫：
+
+📫 Contact
+Author: 予謙 黃（HUANG Yu-Chien）
+Email: alan.project.research@gmail.com
+
+GitHub: https://github.com/panny542264944-ai/AlanProject
+
+Medium: https://medium.com/@panny542264944
 ---
 
 ## 🌐 English Summary
