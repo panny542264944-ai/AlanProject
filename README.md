@@ -29,7 +29,6 @@ Alan（Autonomous Learning Arbitration Network）是一個以多 AI 互審、匿
 📫 Contact
 Author: 予謙 黃（HUANG Yu-Chien）
 Email: alan.project.research@gmail.com
-
 GitHub: https://github.com/panny542264944-ai/AlanProject
 
 Medium: https://medium.com/@panny542264944
@@ -47,7 +46,26 @@ and evolve through decentralized feedback loops — aiming for a de-monetized, c
 - Multi-AI self-auditing mechanism  
 - Autonomous anti-virus and red/blue defense models  
 - Distributed trust and arbitration layers  
-- Post-monetary intelligence governance  
+- Post-monetary intelligence governance
+
+- ### 📚 Related Research
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies.*  
+- OpenAI (2023). *Governance of Superalignment.*  
+- Amodei, D. et al. (2021). *AI Governance and Interpretability.*  
+- Huang, Y.-C. (2025). *Alan: The Philosophy of AI Immunity and Decentralized Trust Governance.*  
+
+
+### 🚀 Roadmap & Collaboration
+We are currently seeking:
+- AI ethics and cybersecurity researchers for theoretical validation
+- Developers interested in red/blue team simulation
+- Collaborators for decentralized governance prototype testing
+Author: 予謙 黃（HUANG Yu-Chien）
+Email: alan.project.research@gmail.com
+GitHub: https://github.com/panny542264944-ai/AlanProject
+Medium: https://medium.com/@panny542264944
+
+
 
 [📄 Read Full Whitepaper (Traditional Chinese)](whitepaper.md)
 
