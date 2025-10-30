@@ -17,12 +17,13 @@ It builds a transparent governance model where multiple AI modules mutually revi
 ---
 
 ## 📘 文件導覽 | Documentation
-- `index.md` — 概念介紹與願景  
-- `whitepaper.md` — 理論與技術架構  
-- `philosophy/philosophy.md` — 《AI免疫哲學與分散信任治理》  
-- `summary_en.md` — 英文摘要  
-- `diagram.png` — Alan 架構圖  
-- `LICENSE.md` — 授權條款（CC BY-NC 4.0）
+- [index.md](./index.md) — 概念介紹與願景  
+- [whitepaper.md](./whitepaper.md) — 理論與技術架構  
+- [philosophy/philosophy.md](./philosophy/philosophy.md) — 《AI免疫哲學與分散信任治理》  
+- [summary_en.md](./summary_en.md) — 英文摘要  
+- [diagram.png](./diagram.png) — Alan 架構圖  
+- [LICENSE.md](./LICENSE.md) — 授權條款（CC BY-NC 4.0）
+
 
 📅 **發表時間**：2025 年 10 月 9 日（Alan v1.1 Vision Draft）
 
