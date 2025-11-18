@@ -18,8 +18,11 @@ It builds a transparent governance model where multiple AI modules mutually revi
 
 ## 📘 文件導覽 | Documentation
 - [index.md](./index.md) — 概念介紹與願景  
-- [whitepaper.md](./whitepaper.md) — 理論與技術架構  
-- [philosophy/philosophy.md](./philosophy/philosophy.md) — 《AI免疫哲學與分散信任治理》  
+- [whitepaper.md](./whitepaper.md) — 理論與技術架構
+- [whitepaper/references.md](./whitepaper/references.md) — 延伸閱讀與參考文獻
+- [mvp/design.md](./mvp/design.md)— Alan MVP 原型設計與最小可行架構
+- [philosophy/philosophy.md](./philosophy/philosophy.md) — 《AI免疫哲學與分散信任治理》
+- [philosophy/metrics.md](./philosophy/metrics.md)— 信任指標（TC / CV / AV）模型與計算框架
 - [philosophy/summary_en.md](./philosophy/summary_en.md) — English Summary（英文摘要）  
 - [philosophy/Alan：AI文明免疫架構圖（The Architecture of Trust-Based Intelligence）.png](./philosophy/Alan：AI文明免疫架構圖（The%20Architecture%20of%20Trust-Based%20Intelligence）.png) — Alan 架構圖（Architecture Diagram）  
 - [LICENSE.md](./LICENSE.md) — 授權條款（CC BY-NC 4.0）
