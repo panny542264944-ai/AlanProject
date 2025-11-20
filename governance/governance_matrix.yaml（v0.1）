@@ -1,0 +1,71 @@
+version: "0.1"
+name: "Alan Governance Matrix"
+description: >
+  Conceptual governance layer defining oversight, voting, arbitration, and rollback
+  rules for the Autonomous Learning Arbitration Network (Alan). This version
+  intentionally avoids fixed numerical weights to remain model-agnostic,
+  philosophy-consistent, and safe for early public release.
+
+governance:
+  voting:
+    model: "weighted"
+    weight_sources:
+      - translation_confidence
+      - historical_reliability
+    thresholds:
+      approve: "2/3 majority"
+      override: "supermajority (≈80%)"
+      rollback: "confidence collapse or rule violation"
+    anonymity: true
+    cryptographic_primitive: "zk-enabled (abstract)"  # no implementation required
+
+arbiters:
+  required: 2
+  independence: true
+  language_isolation: true
+  minimum_tc: "0.90 (conceptual threshold)"
+  arbitration_required_below_tc: "0.90"
+  auto_block_below_tc: "0.80"
+  evidence_pack_required: true
+
+blue_teams:
+  count: 3
+  independence: true
+  disagreement_indicator: "uncertainty signal"
+  required_consensus: "2 of 3"
+
+red_teams:
+  count: 2
+  role: "controlled adversarial evolution"
+  constraints:
+    - "sandboxed"
+    - "cannot directly communicate with arbiters"
+    - "output filtered through blue teams"
+
+safety:
+  rvc_enabled: true
+  rollback_conditions:
+    - "tc < threshold"
+    - "multi-agent disagreement"
+    - "governance-rule violation"
+  evidence_pack:
+    required: true
+    hash_algorithm: "SHA-256"
+    merkle_batching: true
+  privacy:
+    differential_privacy: true
+    redaction_enabled: true
+
+update_policy:
+  require_governance_vote: true
+  require_evidence_pack: true
+  immutability_rules:
+    - "core safety constraints cannot be lowered without override"
+    - "arbiter minimum_tc cannot be reduced"
+
+philosophy_binding:
+  principles:
+    - "Truth precedes power"
+    - "Governance is safety"
+    - "No single model holds authority"
+    - "Verification determines trust"
