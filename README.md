@@ -25,8 +25,8 @@ It builds a transparent governance model where multiple AI modules mutually revi
 - [philosophy/metrics.md](./philosophy/metrics.md)— 信任指標（TC / CV / AV）模型與計算框架
 - [philosophy/summary_en.md](./philosophy/summary_en.md) — English Summary（英文摘要）  
 - [philosophy/Alan：AI文明免疫架構圖（The Architecture of Trust-Based Intelligence）.png](./philosophy/Alan：AI文明免疫架構圖（The%20Architecture%20of%20Trust-Based%20Intelligence）.png) — Alan 架構圖（Architecture Diagram）
-- [governance/governance_matrix.yaml（v0.1）]
-- [governance/governance_matrix_README.md]
+- [governance/governance_matrix.yaml（v0.1）](.governance/governance_matrix.yaml（v0.1）)—治理矩陣
+- [governance/governance_matrix_README.md](.governance/governance_matrix_README.md)—治理矩陣說明
 - [LICENSE.md](./LICENSE.md) — 授權條款（CC BY-NC 4.0）
 
 
