@@ -17,7 +17,8 @@ It builds a transparent governance model where multiple AI modules mutually revi
 ---
 
 ## 📘 文件導覽 | Documentation
-- [index.md](./index.md) — 概念介紹與願景  
+- [index.md](./index.md) — 概念介紹與願景
+- [whitepaper_en.md](./whitepaper_en.md) — 白皮書
 - [whitepaper.md](./whitepaper.md) — 理論與技術架構
 - [whitepaper/references.md](./whitepaper/references.md) — 延伸閱讀與參考文獻
 - [mvp/design.md](./mvp/design.md)— Alan MVP 原型設計與最小可行架構
